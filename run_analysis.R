@@ -12,7 +12,7 @@
 
 ## The final generated output will be written to a file in the working directory
 ## with the following name. Update as necessary for your requirements.
-output_file <- "CleaningData_CourseProject_TidyDataOutput.csv"
+output_file <- "CleaningData_CourseProject_TidyDataOutput.txt"
 
 ## Script Requirements
 ##  1. This script utilizes packages tidyr v1.1.2 and dplyr v1.0.4 which must
