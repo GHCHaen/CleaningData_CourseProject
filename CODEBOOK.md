@@ -17,6 +17,7 @@ The output contains 88 columns in total.
 (numeric)
 Range 1:30
 Indicates the ID of each subject measured.
+
 [2] "Activity"
 (character) 
 Values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
