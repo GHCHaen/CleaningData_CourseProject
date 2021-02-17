@@ -14,13 +14,19 @@ veriable of interest for each subject and activity.
 The output contains 88 columns in total.
 
 [1] "SubjectID"
+
 (numeric)
+
 Range 1:30
+
 Indicates the ID of each subject measured.
 
 [2] "Activity"
+
 (character) 
+
 Values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+
 Indicates the activity each subject was engaged in at time of measurement.
 
 All following columns are numeric and represent the average value for the
