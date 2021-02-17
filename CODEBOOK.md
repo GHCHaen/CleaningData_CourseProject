@@ -7,8 +7,7 @@ date: "2/17/2021"
 ## Output
 
 The output of the script is a tidy data set containing an average for every
-veriable of interest for each subject and activity. A complete description of
-the output file can be found in the CodeBook.md file.
+veriable of interest for each subject and activity.
 
 ## Columns
 
