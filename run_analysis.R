@@ -168,7 +168,7 @@ names(tidy_data) <- c("SubjectID", "Activity",
 ## --   of Subject and Activity with the group average of each measurement.  --
 
 ## Write the generated tidy data to a file in the working directory.
-write.csv(tidy_data, output_file, row.names = FALSE)
+write.table(tidy_data, output_file, row.names = FALSE)
 
 
 
